@@ -1,3 +1,5 @@
+https://img.shields.io/badge/THEWWWTHING-LOOKUP-%2300ffff
+
 - 👋 Hi, I’m @THEWWWTHING
 -  I am interested in near everything ... Also or maybe Better, especially in your mother!
 - 🌱 I’m currently learning not to forge what I learned.
