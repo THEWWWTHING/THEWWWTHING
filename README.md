@@ -1,6 +1,6 @@
 https://img.shields.io/badge/THEWWWTHING-LOOKUP-%2300ffff
 
-[![Docker Image CI](https://github.com/THEWWWTHING/bind9-docker/actions/workflows/docker-image.yml/badge.svg)](https://github.com/THEWWWTHING/bind9-docker/actions/workflows/docker-image.yml)
+[![Docker Image CI](https://github.com/THEWWWTHING/bind9-docker/actions/workflows/docker-image.yml/badge.svg)](https://github.com/THEWWWTHING/bind9-docker/actions/workflows/docker-image.yml) [![CI](https://github.com/THEWWWTHING/THEWWWTHING/actions/workflows/Simple%20mine.yml/badge.svg)](https://github.com/THEWWWTHING/THEWWWTHING/actions/workflows/Simple%20mine.yml)
 
 - 👋 Hi, I’m @THEWWWTHING
 -  I am interested in near everything ... Also or maybe Better, especially in your mother!
