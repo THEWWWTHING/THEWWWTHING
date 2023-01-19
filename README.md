@@ -1,5 +1,7 @@
 https://img.shields.io/badge/THEWWWTHING-LOOKUP-%2300ffff
 
+[![Docker Image CI](https://github.com/THEWWWTHING/bind9-docker/actions/workflows/docker-image.yml/badge.svg)](https://github.com/THEWWWTHING/bind9-docker/actions/workflows/docker-image.yml)
+
 - 👋 Hi, I’m @THEWWWTHING
 -  I am interested in near everything ... Also or maybe Better, especially in your mother!
 - 🌱 I’m currently learning not to forge what I learned.
